@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Adarshpakala2001
 - 👀 I’m interested in ... Python full-stack Development
 - 🌱 I’m currently learning ... Python Django Framework
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... Python Development projects
 - 📫 you can reach via email:- pakalaadarshraavan@gmail.com  or mobile:- 6304348374
 
 <!---
