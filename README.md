@@ -17,7 +17,7 @@ Here are some ideas to get you started: -->
 
 - 🙋‍♂️ All about me is at **[My Website](https://www.adarsh.world/)**
 
-- 🔭 I’m currently working on `Something Intresting`.
+- 🔭 I’m currently working on `Something interesting`.
 
 - 🌱 I’m currently learning `Full Stack Development with Artificial Intelligence`
 
