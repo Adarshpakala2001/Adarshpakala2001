@@ -5,7 +5,7 @@
 Here are some ideas to get you started: -->
 
 <div align="center">
-  <img src ="./banner.png" />
+  <img src ="C:/Users/ADARSH/MyGitIntro/Adarshpakala2001/Adarsh.jpeg" />
   
 </div>
 
