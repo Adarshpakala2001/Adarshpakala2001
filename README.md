@@ -1,75 +1,185 @@
-<h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Adarsh Pakala</h1>
+# Hello, I'm Adarsh Pakala! 👋
 
-<!--
-**soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
+<h3 align="center">Python Full Stack Developer | AI & GenAI Enthusiast | Software Development</h3>
 
-<div align="center">
-  <img src ="C:/Users/ADARSH/MyGitIntro/Adarshpakala2001/Adarsh.jpeg" />
-  
-</div>
+<p align="center">
+  <a href="https://portfolio-adarshs-projects-40639049.vercel.app/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/pakalaadarsh-9b927217b/">LinkedIn</a> •
+  <a href="https://github.com/Adarshpakala2001">GitHub</a>
+</p>
 
- <br/>
+---
 
-## 👨🏻‍💻 About Me:
+## 👨‍💻 About Me
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+I'm a Computer Science Engineering graduate passionate about building practical software applications and exploring the possibilities of Artificial Intelligence.
 
-- 🙋‍♂️ All about me is at **[My Website](https://portfolio-adarshs-projects-40639049.vercel.app/)**
+My technical interests include Python Full Stack Development, Backend Engineering, Generative AI, Machine Learning, and data-driven applications. I enjoy understanding how technologies work and turning ideas into functional projects.
 
-- 🔭 I’m currently working on `Something interesting`.
+- 🎓 **Education:** B.Tech in Computer Science Engineering – Institute of Aeronautical Engineering (IARE), Hyderabad.
+- 💻 **Technical Focus:** Python, Django, REST APIs, React.js, SQL, and Generative AI.
+- 🤖 **AI Interests:** LLM Integration, Prompt Engineering, NLP, and AI-powered applications.
+- 🏗️ **Current Project:** Developing **HireAI**, an AI-powered recruitment and applicant tracking system.
+- 🌱 **Currently Learning:** Advanced Python development, backend architecture, full-stack engineering, and practical GenAI applications.
+- 🤝 **Collaboration:** Interested in collaborating on Python, Full Stack, AI, and open-source development projects.
+- 🎯 **Career Goal:** To grow as a Python Full Stack / AI Engineer by building real-world applications and continuously improving my technical skills.
 
-- 🌱 I’m currently learning `Full Stack Development with Artificial Intelligence`
+## 💼 Professional Journey
 
-- 👯 I’m looking to collaborate for `Dev Projects`
+- **Artificial Intelligence Intern – Igebra.ai** | January 2024 – July 2024
+  - Worked on AI-related projects, including BuddyGPT, an AI-based learning assistant.
+  - Gained exposure to Large Language Models, Machine Learning, Deep Learning, and AI application development.
 
-- 🤔 I’m looking for help with `Competitive Programming`
+- **Python Full Stack Development Training – Livetech Institute** | April 2025 – September 2025
+  - Completed practical training in Python Full Stack Development, covering backend, frontend, and database technologies.
 
-- 💬 Ask me about anything, Except Maths :sweat_smile:
+- **US IT Talent Acquisition Specialist – Unicorn Technologies** | September 2025 – Present
+  - Working with technical recruitment, US IT hiring, client requirements, and candidate management.
+  - Continuing to build hands-on software development projects and pursue opportunities in technical development.
 
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+## 🚀 Featured Projects
 
-- ⚡ Fun fact: I waste most of my time playing games
+### 1. HireAI – AI-Powered Recruitment Management System
 
-## 🛠️ Technologies and Tools I use:
+**Technologies:** Python, Django REST Framework, React.js, PostgreSQL, OpenAI API
 
+An AI-powered recruitment platform with dedicated Candidate and Recruiter Portals.
+
+**Key Features:**
+- Candidate and recruiter authentication.
+- Job creation, publishing, and management.
+- Resume upload and application tracking.
+- Candidate profile and application management.
+- AI-powered resume and Job Description matching.
+- Matching skills, missing skills, match scores, and analysis insights.
+
+🌐 **Live Portal:** [Explore HireAI](https://hireai-7193fd.netlify.app/)
+
+💻 **Source Code:** [GitHub Repository](https://github.com/Adarshpakala2001/hireai)
+
+### 2. BuddyGPT – AI-Based Learning Assistant
+
+**Technologies:** AI, Python, LLMs
+
+Worked on an AI-based learning assistant project during my internship at Igebra.ai, gaining practical exposure to AI applications and LLM technologies.
+
+### 3. Detecting Depression Using Bayes Theorem
+
+**Technologies:** Python, SQL, Machine Learning
+
+An academic project focused on analyzing social media data using a Bayes Theorem-based approach to identify patterns associated with depression.
+
+## 🛠️ Technical Skills & Tools
+
+### Programming Languages
 <p>
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" height="25px"/>
-<img alt="Django" src="https://img.shields.io/badge/Django-14354C?style=for-the-badge&logo=python&logoColor=white"  height="25px">
-<img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="25px"/>
-<img alt="Javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"  height="25px"/>
-<img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25px"/>
-<img alt="NextJs" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" height="25px"/>
-<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white"  height="25px"/>
-<img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white"  height="25px"/>
-<img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="Digitalocean" src="https://img.shields.io/badge/Digitalocean-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" height="25px"/>
-<img alt="Tailwidcss" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="25px"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" height="25px"/>
-<img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25px"/>
-<img alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25px"/>
-<img alt="SQL" src="https://img.shields.io/badge/Sql-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" height="25px"/>
-
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25px"/>
-<img alt="Brave browser" src="https://img.shields.io/badge/-Brave_Browser-FB542B?style=flat-square&logo=brave&logoColor=white" height="25px"/>
-<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" height="25px"/>
- <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="25px"/>
- <img alt="postman" src="https://img.shields.io/badge/-Postman-00C7B7?style=flat-square&logo=postman&logoColor=white" height="25px"/>
- <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" height="25px"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" />
 </p>
 
-## ❤️ Let's get connected:
-
-<p><a href="https://www.adarsh.world/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/adarsh.pakala-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white height="30px" /></a> <a href="https://x.com/AdarshPakala5" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"  height="30px"/></a> <a href="https://www.linkedin.com/in/pakalaadarsh-9b927217b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a> <a href="https://soumyajitblogs.vercel.app/" target="_blank"><img alt="Blog" src="https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  height="30px"/></a> <a href="https://www.instagram.com/___adarsh__pakala/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+### Frontend Development
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-## 🤝 Support Me:
+### Backend Development
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
 
-<a href="https://buymeacoffee.com/adarshpakala" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+### AI, Machine Learning & GenAI
+<p>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NLP-0A9396?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-5C4EE5?style=for-the-badge" />
+</p>
 
-## 📊 My GitHub Data:
+### Databases
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
-<div align="center">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Adarshpakala2001&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Adarshpakala2001&" alt="Adarsh" />
-</div>
+### Developer Tools & Platforms
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
+
+**Additional Exposure:** Microsoft Azure fundamentals, Ansible awareness, virtual environments, and Python package management.
+
+## 🎯 Areas of Interest
+
+- 🐍 Python Backend and Full Stack Development
+- 🌐 Building scalable web applications and REST APIs
+- 🤖 Generative AI and Large Language Model applications
+- 🧠 Machine Learning, NLP, and intelligent automation
+- 📊 Data Analytics, SQL, and database-driven applications
+- 🔐 Application security and reliable software development
+- 🚀 Exploring emerging technologies and practical engineering solutions
+
+## 🎮 Hobbies & Personal Interests
+
+Technology is a major part of my learning journey, but I also enjoy activities outside development.
+
+- 🎮 **Gaming:** Enjoy playing video games, exploring different genres, and taking on challenges.
+- 🔍 **Exploring Technology:** Curious about new tools, frameworks, AI developments, and emerging technologies.
+- 💡 **Building Ideas:** Enjoy experimenting with new concepts and turning interesting ideas into small projects.
+- 📚 **Continuous Learning:** Believe in learning something new every day and improving through practice.
+- 🤝 **Knowledge Sharing:** Enjoy discussing technology, exchanging ideas, and learning from other developers.
+
+## 🤝 Let's Connect!
+
+I'm always interested in connecting with developers, technology enthusiasts, and people working on innovative projects.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pakalaadarsh-9b927217b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Adarshpakala2001">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://portfolio-adarshs-projects-40639049.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://x.com/AdarshPakala5">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/___adarsh__pakala/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Adarshpakala2001&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats.demolab.com?user=Adarshpakala2001&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adarshpakala2001&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <b>"Keep learning, keep building, and turn curiosity into innovation."</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my GitHub profile! 😊
+</p>
